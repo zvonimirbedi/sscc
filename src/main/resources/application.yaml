@@ -1,0 +1,4 @@
+spring:
+  port : 8080
+  main:
+    web-application-type: none
