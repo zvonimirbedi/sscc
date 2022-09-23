@@ -37,7 +37,7 @@ out/
 .vscode/
 
 ### Local temp files ###
-./SSCC_out.txt
+SSCC_out.txt
 
 
 
